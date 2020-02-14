@@ -1,18 +1,18 @@
 scheme: "Dark Violet"
 author: "ruler501 (https://github.com/ruler501/base16-darkviolet)"
-base00: "08030D" #08030d ---
-base01: "1f1433" #1f1433 --
-base02: "332640" #332640 -
-base03: "392f4d" #392f4d
-base04: "443866" #443866 +
-base05: "4c2e73" #4c2e73 ++
-base06: "443080" #443080 +++
-base07: "5b388c" #5b388c ++++
-base08: "613f73" #613f73 red
-base09: "805880" #805880 orange
-base0A: "504573" #504573 yellow
-base0B: "394d73" #394d73 green
-base0C: "454580" #454580 aqua/cyan
-base0D: "333380" #333380 blue
-base0E: "5a4370" #5a4370 purple
-base0F: "454573" #454573 brown
+base00: "000000" #000000 ----
+base01: "1f0a33" #1f0a33 ---
+base02: "2d1a40" #2d1a40 --
+base03: "442459" #442459 -
+base04: "582880" #7f63a6 +
+base05: "57358c" #57358c ++
+base06: "6f4599" #6f4599 +++
+base07: "7f63a6" #9966cc ++++
+base08: "803359" #992e90 red
+base09: "682e73" #682e73 orange
+base0A: "8f6799" #8f6799 yellow
+base0B: "3d8e99" #3d8e99 green
+base0C: "57628c" #57628c aqua/cyan
+base0D: "403b80" #403b80 blue
+base0E: "451773" #451773 purple
+base0F: "675073" #675073 brown
